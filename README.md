@@ -2,7 +2,7 @@
 All possible testing ebooks
 
 # Table of Contents
-1. [Software testing theory](#Software testing theory)
+1. [Software testing theory](#Softwaretestingtheory)
 2. [Standards in software testing](#Standards in software testing)
 3. [Testing of Free and OpenSource Software](#Testing of Free and OpenSource Software)
 4. [Testing with different programming languages](#Testing with different programming languages)
