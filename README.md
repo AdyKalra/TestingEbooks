@@ -37,35 +37,35 @@ All possible testing ebooks
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 
 #### Standards in software testing
-* Testing Standards Working Party
-* The International Software Testing Standard
-* Standard for Software Component Testing (PDF)
+* [Testing Standards Working Party]()
+* [The International Software Testing Standard]()
+* [Standard for Software Component Testing (PDF)]()
 
 #### Testing of Free and OpenSource Software
-* Quality Improvement in Volunteer Free and Open Source Software Project (PDF)
-* Testing and quality management of free and open source software (WIP) - Sergey Bronnikov
+* [Quality Improvement in Volunteer Free and Open Source Software Project (PDF)]()
+* [Testing and quality management of free and open source software (WIP) - Sergey Bronnikov]()
 
 #### Testing with different programming languages
-* PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality
-* Practical PHP testing
-* Testing Erlang
-* Testing in Scala
-* Test-Driven Web Development with Python
-* Test-Driven Development - Extensive Tutorial - Grzegorz Gałęzowski
-* Testing and Debugging JavaScript
-* Web Application Testing in Ruby Željko Filipin
+* [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality]()
+* [Practical PHP testing]()
+* [Testing Erlang]()
+* [Testing in Scala]()
+* [Test-Driven Web Development with Python]()
+* [Test-Driven Development - Extensive Tutorial - Grzegorz Gałęzowski]()
+* [Testing and Debugging JavaScript]()
+* [Web Application Testing in Ruby Željko Filipin]()
 
 #### Testing Tools
-* The Evolving Art of Fuzzing (PDF) - Jared DeMott
-* AccelTest (PDF)
-* .NET Performance Testing and Optimization - The Complete Guide (zip) - RedGate, By Paul Glavich and Chris Farrell
-* Record-Playback Test Automation: Sahi & Selenium IDE
-* Selenium 2.0 Using the WebDriver API to Create Robust User Acceptance Tests
-* SoapUI 101: Beginner's Guide to Functional Testing
-* TestNG Tutorial
-* JUnit Tutorial
-* A Pragmatic Approach to iOS Testing
-* Test-Driven Development - Extensive Tutorial. Open Source ebook
+* [The Evolving Art of Fuzzing (PDF) - Jared DeMott]()
+* [AccelTest (PDF)]()
+* [.NET Performance Testing and Optimization - The Complete Guide (zip) - RedGate, By Paul Glavich and Chris Farrell]()
+* [Record-Playback Test Automation: Sahi & Selenium IDE]()
+* [Selenium 2.0 Using the WebDriver API to Create Robust User Acceptance Tests]()
+* [SoapUI 101: Beginner's Guide to Functional Testing]()
+* [TestNG Tutorial]()
+* [JUnit Tutorial]()
+* [A Pragmatic Approach to iOS Testing]()
+* [Test-Driven Development - Extensive Tutorial. Open Source ebook]()
 
 -------------------------------------------------
 
