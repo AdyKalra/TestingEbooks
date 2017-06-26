@@ -37,35 +37,35 @@ All possible testing ebooks
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 
 #### Standards in software testing
-* [Testing Standards Working Party]()
-* [The International Software Testing Standard]()
-* [Standard for Software Component Testing (PDF)]()
+* [Testing Standards Working Party](http://www.testingstandards.co.uk/)
+* [The International Software Testing Standard](http://softwaretestingstandard.org/)
+* [Standard for Software Component Testing (PDF)](http://www.testingstandards.co.uk/Component%20Testing.pdf)
 
 #### Testing of Free and OpenSource Software
-* [Quality Improvement in Volunteer Free and Open Source Software Project (PDF)]()
-* [Testing and quality management of free and open source software (WIP) - Sergey Bronnikov]()
+* [Quality Improvement in Volunteer Free and Open Source Software Project (PDF)](http://www.cyrius.com/publications/michlmayr-phd.pdf)
+* [Testing and quality management of free and open source software (WIP) - Sergey Bronnikov](https://github.com/ligurio/tos-book)
 
 #### Testing with different programming languages
-* [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality]()
-* [Practical PHP testing]()
-* [Testing Erlang]()
-* [Testing in Scala]()
-* [Test-Driven Web Development with Python]()
-* [Test-Driven Development - Extensive Tutorial - Grzegorz Gałęzowski]()
-* [Testing and Debugging JavaScript]()
-* [Web Application Testing in Ruby Željko Filipin]()
+* [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
+* [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Testing Erlang](https://github.com/zkessin/testing-erlang-book)
+* [Testing in Scala](https://github.com/dhinojosa/testing-in-scala-book)
+* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+* [Test-Driven Development - Extensive Tutorial - Grzegorz Gałęzowski](https://github.com/grzesiek-galezowski/tdd-ebook)
+* [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
+* [Web Application Testing in Ruby Željko Filipin](https://leanpub.com/watirbook/read)
 
 #### Testing Tools
-* [The Evolving Art of Fuzzing (PDF) - Jared DeMott]()
-* [AccelTest (PDF)]()
-* [.NET Performance Testing and Optimization - The Complete Guide (zip) - RedGate, By Paul Glavich and Chris Farrell]()
-* [Record-Playback Test Automation: Sahi & Selenium IDE]()
-* [Selenium 2.0 Using the WebDriver API to Create Robust User Acceptance Tests]()
-* [SoapUI 101: Beginner's Guide to Functional Testing]()
-* [TestNG Tutorial]()
-* [JUnit Tutorial]()
-* [A Pragmatic Approach to iOS Testing]()
-* [Test-Driven Development - Extensive Tutorial. Open Source ebook]()
+* [The Evolving Art of Fuzzing (PDF) - Jared DeMott](http://www.vdalabs.com/tools/The_Evolving_Art_of_Fuzzing.pdf)
+* [AccelTest (PDF)](http://www.lausd.net/istem/2know_files/Software_Manual.pdf)
+* [.NET Performance Testing and Optimization - The Complete Guide (zip) - RedGate, By Paul Glavich and Chris Farrell](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip)
+* [Record-Playback Test Automation: Sahi & Selenium IDE](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi)
+* [Selenium 2.0 Using the WebDriver API to Create Robust User Acceptance Tests](http://refcardz.dzone.com/refcardz/getting-started-selenium-20#refcard-download-social-buttons-display)
+* [SoapUI 101: Beginner's Guide to Functional Testing](http://www2.smartbear.com/download-mqi-nbound-soapui-top-5-blast-ebook-blog.html)
+* [TestNG Tutorial](http://www.tutorialspoint.com/testng/index.htm)
+* [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
+* [A Pragmatic Approach to iOS Testing](https://github.com/orta/pragmatic-testing#a-pragmatic-approach-to-ios-testing)
+* [Test-Driven Development - Extensive Tutorial. Open Source ebook](https://github.com/grzesiek-galezowski/tdd-ebook)
 
 -------------------------------------------------
 
